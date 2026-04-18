@@ -3,6 +3,7 @@
 A high-performance concurrent website status checker built with Go.
 
 Release link : (You can download the .exe file and run on your local computer) : 
+https://github.com/devWisz/Elevate/releases/tag/1.0
 
 
 ## Description
