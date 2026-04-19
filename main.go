@@ -9,6 +9,7 @@ import (
 func main() {
 
 	links := []string{
+		"http://sarjakkhanal.com",
 		"http://google.com",
 		"http://facebook.com",
 		"http://golang.org",
